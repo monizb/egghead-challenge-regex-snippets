@@ -3,7 +3,7 @@
 A VS Code Extension with a list of 50+ hand picked Regex Codes made as a part of an Egghead Challenge.
 
 ### Why This Extension?
-When the challenge was announced and the topics were told, I saw Regex one the list and thought "Oh, there will already be 100s of extensions out there for Regex Snippets". Well, I was wrong. I did not find even a single extension for the same so decided to take this up.
+When the challenge was announced and the topics were told, I saw Regex on the list and thought "Oh, there will already be 100s of extensions out there for Regex Snippets". Well, I was wrong. I did not find even a single extension for the same so decided to take this up.
 
 ### Snippets
 
